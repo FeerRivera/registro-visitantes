@@ -6,27 +6,27 @@ En la Ciudad de México operan varios coworking, uno de ellos es Terminal  1 con
 
 Antes de plantear una propuesta al coworking, se realizó una investigación de campo para conocer como los demás coworking realizaban su proceso de registro de visitantes y  saber si con el registro, agregan más valor al servicio que le otorgan a sus  inquilinos.
 
-#### **Análisis Competitivo**
+### **Análisis Competitivo**
 
 El primer sitio que se visitó fue  El 3er espacio un coworking ubicado en Amsterdam 240, 4° Piso, Col. Hipódromo, en la Delegación Cuauhtémoc, en este coworking se entrevistó a la Gerente de Operaciones, Karen Aldana.
 
-![Control](../imagenes/tercerespacio.jpg)
+![Control](https://github.com/FeerRivera/registro-visitantes/blob/master/imagenes/tercerespacio.jpg?raw=true)
 * Con autorización de la Gerente de Operaciones se incluye su actual formato de Registro.
 
 Fotos: <https://photos.app.goo.gl/wsPw92u69xwUC6ZD8>
-Audio: <https://drive.google.com/file/d/1nW7Y8yVsSfcL8rmxTZXm6Q63fxkR2gTI/view>
+Audio de la entrevista 3er espacio: <https://drive.google.com/file/d/1nW7Y8yVsSfcL8rmxTZXm6Q63fxkR2gTI/view>
 
 El segundo coworking  al que se acudió fue como cliente incógnito en Wework ubicado en Insurgentes Sur 601, Col Nápoles, Delegación Benito Juárez.
 
-![wework](../imagenes/llegandoawework.jpg)
+![wework](https://github.com/FeerRivera/registro-visitantes/blob/master/imagenes/llegandoawework.jpg?raw=true)
 
 A continuación se muestra una  comparación de su registro de visitantes de estos dos coworking con el de Terminal 1.
 
-![cuadro](../imagenes/comparacion.png)
+![cuadro](https://github.com/FeerRivera/registro-visitantes/blob/master/imagenes/comparacion.png?raw=true)
 
  A diferencia de Terminal 1 y El 3er Espacio, WeWork  cuenta con un registro de visitantes de tipo digital utilizando una tablet, en el siguiente link se muestra el proceso que tiene que seguir un visitante.
 
- ![registro](../imagenes/registrowework.jpg)
+ ![registro](https://github.com/FeerRivera/registro-visitantes/blob/master/imagenes/registrowework.jpg?raw=true)
 
  Video del Registro de Visitantes <https://photos.app.goo.gl/tWiWZoWBBNiyTQ3g6>
 
@@ -47,19 +47,19 @@ Audio de la Entrevista a usuario de WeWork <https://drive.google.com/file/d/1n0L
 
 Al conocer el proceso de registro de WeWork, podemos antelar ciertas características del proceso, datos requeridos, seguridad, ubicación del dispositivo.
 
-#### **Investigación**
+### **Investigación**
 
-##### **Cliente**
+#### **Cliente Terminal 1**
 
 Se realizó una entrevista con la recepcionista Miriam Castañeda para conocer  el proceso de registro de visitantes, la información obtenida nos servirá para poder identificar y comprender los problemas que se presentan en el proceso.
 
 La recepcionista de Terminal 1 nos indica que el registro de visitantes les permite saber quienes se encuentran dentro del coworking y a que piso se dirigen por si algún suceso se llegara a presentar (robo, agresión, sismo, incendio etc,).
 
-![registro](../imagenes/terminal.jpg)
+![registro](https://github.com/FeerRivera/registro-visitantes/blob/master/imagenes/terminal.jpg?raw=true)
 
-Audio de la Entrevista <https://drive.google.com/file/d/1BJNCyhs70OFx-3VMz2ijxGdNHdKdJodg/view?usp=sharing>
+Audio de la entrevista con la recepcionista <https://drive.google.com/file/d/1BJNCyhs70OFx-3VMz2ijxGdNHdKdJodg/view?usp=sharing>
 
-##### **Análisis del proceso de registro de Terminal 1**
+#### **Análisis del proceso de registro de Terminal 1**
 
 * La recepcionista o vigilancia recibe a los visitantes
 * El visitante se registra con una pluma en una libreta
@@ -67,40 +67,40 @@ Audio de la Entrevista <https://drive.google.com/file/d/1BJNCyhs70OFx-3VMz2ijxGd
 * No se le pide al visitante identificación (para evitar la pérdida de las credenciales de los visitantes) y no se otorga gafete
 * Se realiza una búsqueda en su base de datos para  poder llamarle por teléfono al inquilino y notificarle de la llegada de su visitante
 
-##### **Problemáticas detectadas:**
+#### **Problemas detectados:**
 
 * Ante los sismos frecuentes en la Ciudad de México o algún desastre (por ejemplo incendio, atentado) en el coworking, la información recopilada de los visitantes quedaría vulnerable, debido a que está en una libreta.
 * Cuando las libretas están llenas las almacenan, ocupan espacio físico  
 * Al no contar una identificación del visitante se minimiza la seguridad del coworking  
 
-##### **Nuestra propuesta**
+#### **Nuestra propuesta**
 
 Crear un Dashboard en donde la recepcionista o vigilancia puedan visualizar la información que van ingresando los visitantes.
 
-##### **¿Qué se estaría solucionando?**
+#### **¿Qué se estaría solucionando?**
 
 * La información de los visitantes estaría de forma digital
 * La información de los visitantes estaría guardada y respaldada en la nube
 * Disposición y acceso a la información  en cualquier momento
 
-##### **Los beneficios al implementar el Dashboard**
+#### **Los beneficios al implementar el Dashboard**
 
 * Se optimiza espacio físico  
 * Ahorro en recursos materiales (libretas, plumas)
 * Seguridad (los visitantes no podrán ver quien ha ingresado antes o después de ellos)
 * Coworking Eco friendly (Ayuda a no contaminar el planeta y/o cuidar los recursos)
 
-##### **¿Quienes utilizarían el Dashboard de Registro de Visitantes?**
+#### **¿Quiénes utilizarían el Dashboard de Registro de Visitantes?**
 
 * Recepcionista y/o vigilantes
 * Administrador de Terminal 1
 
-##### **Dispositivos con los que accederán**
+#### **Dispositivos que se utilizaran para el Dashboard**
 
 * Computadora de Escritorio
 * Smartphone
 
-##### **Usuario Visitante**
+#### **Usuario Visitante**
 
 Es muy importante conocer  y comprender las situaciones por las que pasan los visitantes de Terminal 1 ya que  ellos son los que nos proporcionan la información que estaría plasmada en  el Dashboard.
 
@@ -108,41 +108,41 @@ Se utilizó la técnica de observación debido a que los visitantes no cuentan c
 
 Con el acercamiento que se tuvo  con los visitantes se observó que al esperar a la persona que visitan se encuentran impacientes, al no bajar o llegar la persona a la que buscan. Se paran después de un rato a preguntar con la recepcionista si le avisaron al inquilino, ya que si a su llegada,  la recepcionista estaba atendiendo a otros visitantes o bien si la ven distraída no están seguros si realmente se le aviso al inquilino.
 
-##### **Problemáticas detectadas**
+#### **Problemas detectados**
 
 * Al no localizar pronto a  algún inquilino,  el tiempo de espera se prolonga para el visitante.
 * Al realizar la notificación vía telefónica, la línea del inquilino puede que esté ocupada, no esté en su lugar o en algún caso presentando alguna falla.
 * Si la recepcionista está ocupada atendiendo a otros visitantes y a su vez realizando llamadas para notificar a otros inquilinos, se atrasa el tiempo de atención.
 * Si la recepcionista está distraída o si se le olvida realizar la notificación por estar realizando otras tareas, genera malestar en el visitante.
 
-##### **Nuestra propuesta**
+#### **Nuestra propuesta**
 
 Crear una interfaz de Registro de Visitantes con toma de fotografía, notificación al visitante que fue enterado el inquilino de su llegada  y confirmándolo nuevamente con un correo para el  visitante.
 
-##### **¿Qué se estaría solucionando?**
+#### **¿Qué se estaría solucionando?**
 
 * Los visitantes ingresan sus datos de forma digital
 * Con la toma de fotografía, se estaría aumentando la seguridad del coworking
 * Seguridad por parte del visitante al saber y ver en la pantalla que se le ha notificado de su llegada a la persona que visita
 * Mayor seguridad del visitante al tener en su correo la misma notificación que vio en la interfaz de Registro de visitantes.
 * Reduce el menor tiempo de espera para el visitante
-Localiza de forma inmediata al inquilino
+* Localiza de forma inmediata al inquilino
 
-##### **Los beneficios al implementar la interfaz de Registro de Visitantes**
+#### **Los beneficios al implementar la interfaz de Registro de Visitantes**
 
 * Visitantes contentos con la atención del coworking
 * La imagen de Terminal 1 se muestra, jovial, moderna y digital
 * Inquilinos que aumenten su estancia al contar con servicios modernos para sus invitados.
 
-##### **Dispositivos que se utilizara para el Registro**
+#### **Dispositivo que se utilizara para el Registro**
 
 * Tablet
 
-##### **Inquilino**
+#### **Inquilino**
 
 Con la notificación de Registro de Visitantes, al inquilino le llegara un correo informando de la llegada de su visitante, en caso de que no esté en su lugar también recibirá la notificación en su celular, con esta implementación se considera que va a ayudar a mejorar y agilizar sus reuniones.   
 
-##### **Dispositivo en donde el inquilino podrá ver las notificaciones de llegada de sus invitados**
+#### **Dispositivo en donde el inquilino podrá ver las notificaciones de llegada de sus invitados**
 
 * Computadora de Escritorio
 * Smarthpone
@@ -171,3 +171,14 @@ Los beneficios al utilizarlas serian los siguientes:
 #### **Proceso de Ideación**
 
 Sketch <https://drive.google.com/drive/folders/15qfMiX6JjDiMzRhzWAMmCL4GDU4flX4r?usp=sharing>
+
+#### **Prototipado**
+
+https://marvelapp.com/4fjeb86/screen/46762299
+
+#### **User Testing**
+
+https://drive.google.com/drive/folders/1-Fjf5DM5HDRPFFMh7NP1sArO2EB_T8HX?usp=sharing
+#### **Iteración**
+
+https://photos.app.goo.gl/F7CpA6iiXoF5B41V8
